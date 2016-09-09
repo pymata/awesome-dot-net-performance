@@ -75,6 +75,7 @@ A curated list of awesome .NET Performance books, courses, trainings, conference
 ## Performance measurement 
 * [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet)
 * [NBench](https://github.com/petabridge/NBench)
+* [WAPT module for SharePoint testing](http://www.loadtestingtool.com/sharepoint-testing.shtml)
 
 ## High Performance Libraries
 * [MathNet](http://www.mathdotnet.com/)
